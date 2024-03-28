@@ -42,12 +42,12 @@ const styles = StyleSheet.create({
     // overflow: 'hidden',
     // justifyContent: 'flex-end'
   },
-  name: {
-    fontWeight: 'bold',
-    fontSize: 25,
-    color: 'white',
+  // name: {
+  //   fontWeight: 'bold',
+  //   fontSize: 25,
+  //   color: 'white',
 
-  },
+  // },
   bio: {
     fontSize: 18,
     fontWeight: 'bold',
